@@ -1,10 +1,10 @@
 /* ****************************************************************************
 -- (C) Copyright 2018 Kevin M. Hubbard - All rights reserved.
 -- Source file: hyper_dword.v           
--- Date:        June 2014
+-- Date:        April 2018
 -- Author:      khubbard
 -- Description: S27KL0641DABHI020 : Cypress IC DRAM 64MBIT 3V 100MHZ 24BGA
--- Language:    Verilog-2001 and VHDL-1993
+-- Language:    Verilog-2001
 -- Simulation:  Mentor-Modelsim 
 -- Synthesis:   Xilinst-XST 
 -- License:     This project is licensed with the CERN Open Hardware Licence

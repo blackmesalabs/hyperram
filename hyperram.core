@@ -1,0 +1,13 @@
+CAPI=2:
+name : ::hyperram:0
+
+filesets:
+  rtl:
+    files:
+      - hyper_xface.v
+      - hyper_dword.v
+    file_type : verilogSource
+
+targets:
+  default:
+    filesets : [rtl]
